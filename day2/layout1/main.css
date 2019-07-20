@@ -1,0 +1,48 @@
+.box{
+    height:100px;
+    width:100px;
+    background:red;
+    display:inline-block;
+    margin:20px;
+}
+
+.border-solid{
+    border:5px solid #000;
+}
+
+.border-double{
+    border:5px double;
+}
+
+.border-dash{
+    border:5px dashed #000;
+}
+
+.border-dotted{
+    border:5px dotted #000;
+}
+
+.exercise{
+    margin:10px;
+}
+
+.box1{
+    border:20px solid red;
+    
+    background:rgb(77, 134, 77);
+    padding:20px;
+    color:blue;
+    
+    text-align: center;
+
+}
+.box2{
+    background:yellow;
+    width:320px;
+
+    padding:30px;
+}
+
+.box3{
+    box-sizing: border-box;
+}
