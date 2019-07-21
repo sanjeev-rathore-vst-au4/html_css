@@ -1,0 +1,42 @@
+.container{
+    width:560px;
+   border:2px solid #000;
+   text-align: center;
+    
+    
+  }
+  
+  .box{
+    display:inline-block;
+    background:grey;
+    width:160px;
+    height:100px;
+    margin:10px;
+  }
+  
+  hr {
+    
+    margin:80px;
+    border:none;
+    border-top:1px dotted #f00;
+    color:grey;
+    background-color:grey;
+    height:1px;
+    width:40%;
+    
+  }
+  .container2{
+     width:560px;
+   border:2px solid #000;
+    
+    
+  }
+  
+  .border{
+    border: 10px solid #000;
+   
+  }
+  .border1{
+    border:10px solid #000;
+    box-sizing:border-box;
+  }
