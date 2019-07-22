@@ -1,0 +1,44 @@
+.container{
+    height:300px;
+    width:310px;
+    background:purple;
+    margin:10px;
+    padding:10px;
+    
+  }
+  .box{
+    text-align:center;
+    width:150;
+    height:180;
+    background:red;
+    margin:15px;
+    border:15px solid;
+    border-top-color: blue;
+    border-bottom-color:yellow;
+    border-left-color:green;
+    border-right-color:grey;
+    
+  }
+  
+  .container{
+    height:300px;
+    width:310px;
+    background:purple;
+    margin:10px;
+    padding:10px;
+    
+  }
+  .box{
+    text-align:center;
+    width:150;
+    height:180;
+    background:red;
+    margin:15px;
+    border:15px solid;
+    border-top-color: blue;
+    border-bottom-color:yellow;
+    border-left-color:green;
+    border-right-color:grey;
+    
+  }
+      
