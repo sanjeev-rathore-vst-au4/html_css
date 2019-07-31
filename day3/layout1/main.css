@@ -1,0 +1,69 @@
+.container{
+    max-width: 960px;
+    margin:0 auto;
+}
+
+.no-float-text{
+    display:inline;
+    margin:25px 0;
+
+}
+hr{
+    margin: 50px 0px;
+}
+
+.second{
+    float:left;
+    display:inline-block;
+}
+
+.third{
+    float:right;
+    
+}
+section{
+    margin: 25px 0;
+
+}
+
+.float-left{
+    margin:25px 0px;
+    display:inline-block
+}
+.float-right{
+    display:inline;
+    margin:100px 0;
+}
+
+.fourth{
+    float:left;
+    margin: 0 5px;
+}
+
+.two-object-float-left{
+    display: inline;
+}
+
+.fifth{
+    float:right;
+}
+.outer{
+    background:red;
+    padding:10px;
+    border: 2px solid black;
+}
+.box1{
+    background:pink;
+    margin:20px 20px;
+}
+
+.outer1{
+    background:red;
+    border:2px solid black;
+    padding:10px;
+
+}
+
+.seven{
+    float:left;
+}
